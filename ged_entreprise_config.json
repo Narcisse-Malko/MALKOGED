@@ -1,0 +1,40 @@
+{
+    "typology": {
+        "IDENTITE & ETAT CIVIL": [
+            "Identification",
+            "Titre de séjour",
+            "Demande de titre de séjour",
+            "Actes divers"
+        ],
+        "LOGEMENT": [
+            "Quittance de loyer",
+            "Facture",
+            "Bail",
+            "Dossier de location"
+        ],
+        "VIE PROFESSIONNELLE & ETUDES": [
+            "Diplômes",
+            "Curriculum Vitae",
+            "Devoirs & Examens",            "Emploi & Carrière",
+            "Bulletins de salaire",
+            "Contrat de travail"
+
+        ],
+        "SANTE": [
+            "Dossier médical",
+            "Ordonnance",
+            "Résultats d'examens"            
+        ],
+        "GENERAL": [
+            "Divers",
+            "Courriers administratifs",
+            "Factures & Reçus",
+            "Important Documents"
+        ]
+    },
+    "appearance": {
+        "theme": "Dark",
+        "accent": "blue"
+    },
+    "last_destination": "C:/Users/narci/Downloads/Fichier_pdf"
+}
