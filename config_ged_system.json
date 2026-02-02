@@ -1,0 +1,24 @@
+{
+    "typology": {
+         "IDENTITE & ETAT CIVIL": [
+            "Identification"
+        ],
+        "LOGEMENT": [
+            "Quittance de loyer"
+        ],
+        "VIE PROFESSIONNELLE & ETUDES": [
+            "Diplômes"
+        ],
+        "SANTE": [
+            "Dossier médical"
+        ],
+        "GENERAL": [
+            "Importants Documents"
+        ]
+
+        
+    },
+    "theme": "dark",
+    "accent": "blue",
+    "last_export": null
+}
