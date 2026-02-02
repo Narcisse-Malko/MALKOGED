@@ -18,7 +18,7 @@ from mutagen.mp4 import MP4
 # ==================== CONFIGURATION ====================
 CONFIG_FILE = "ged_enterprise_config.json"
 INDEX_FILE = "ged_file_index.json"
-API_KEY = "sk-7653a144a1fe4e3abf00ab0d18b6ff0a"
+API_KEY = "api-key"
 DEEPSEEK_API_URL = "https://api.deepseek.com/v1/chat/completions"
 
 # ==================== CLASSES UTILITAIRES ====================
